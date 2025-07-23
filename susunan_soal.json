@@ -1,0 +1,1231 @@
+[
+    {
+        "nomor_province": 1,
+        "nama_province": "Bali",
+        "levels_in_province": [
+            {
+                "level": 1,
+                "questions_in_level": [
+                    {
+                        "id": 1,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Gamelan Bali merupakan...",
+                        "opsi_jawaban": {
+                            "a": "Kumpulan tarian modern",
+                            "b": "Kumpulan alat musik tradisional Bali",
+                            "c": "Alat musik elektronik",
+                            "d": "Drama musikal"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 2,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Apa fungsi utama gamelan Bali dalam budaya Bali?",
+                        "opsi_jawaban": {
+                            "a": "Untuk hiburan",
+                            "b": "Untuk pengiring upacara dan tarian adat",
+                            "c": "Untuk dibanggakan",
+                            "d": "Untuk kompetisi"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 3,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Apa nama satu set lengkap dari gamelan Bali?",
+                        "opsi_jawaban": {
+                            "a": "Band tradisional",
+                            "b": "Orkestra",
+                            "c": "Bebarungan",
+                            "d": "Paduan Gamelan"
+                        },
+                        "kunci_jawaban_dokumen": "c"
+                    },
+                    {
+                        "id": 4,
+                        "path_audio": null,
+                        "path_gambar": "/aset/1.1_Kendang.webp",
+                        "teks_pertanyaan": "Dalam bebarungan satu perangkat sebagai perkusi, perangkat pada gambar dimainkan dengan cara...",
+                        "opsi_jawaban": {
+                            "a": "Ditiup",
+                            "b": "Dipetik",
+                            "c": "Dipukul",
+                            "d": "Digesek"
+                        },
+                        "kunci_jawaban_dokumen": "c"
+                    },
+                    {
+                        "id": 5,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Apa nama alat musik pada gambar sebelumnya dan berperan untuk apakah alat musik tersebut…",
+                        "opsi_jawaban": {
+                            "a": "Kendang - Menentukan ritme dan tempo",
+                            "b": "Kendang – Sebagai melodi",
+                            "c": "Gong - Menentukan ritme dan tempo",
+                            "d": "Cengceng Kecek – Penyatu irama"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 6,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Selain kendang, Cengceng Kecek hadir sebagai penyatu irama. Cengceng Kecek menghasilkan suara yang…",
+                        "opsi_jawaban": {
+                            "a": "Menambah efek ritmis",
+                            "b": "Menghasilkan melodi utama",
+                            "c": "Hanya sebagai hiasan",
+                            "d": "Menambah tempo"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 7,
+                        "path_audio": null,
+                        "path_gambar": "/aset/1.2_Gong.webp",
+                        "teks_pertanyaan": "Alat apakah ini? Apa fungsinya?",
+                        "opsi_jawaban": {
+                            "a": "Suling - Melodi",
+                            "b": "Gong - Penanda siklus",
+                            "c": "Kempur - Penanda siklus",
+                            "d": "Cengceng Kecek - Penyatu irama"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 8,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Dari gambar sebelumnya, ciri-ciri gong yang benar dibawah ini, kecuali...",
+                        "opsi_jawaban": {
+                            "a": "Terbuat dari perunggu",
+                            "b": "Berwarna putih",
+                            "c": "Berbentuk bundar",
+                            "d": "Terdapat pencon atau moncol di tengah-tengah"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 9,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Berdasrkan gambar sebelumnya, Gong dimainkan dengan cara?",
+                        "opsi_jawaban": {
+                            "a": "Ditiup",
+                            "b": "Dipetik",
+                            "c": "Dipukul",
+                            "d": "Digesek"
+                        },
+                        "kunci_jawaban_dokumen": "c"
+                    },
+                    {
+                        "id": 10,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Suara khas Gong Ageng terdengar dalam bentuk resonansi yang?",
+                        "opsi_jawaban": {
+                            "a": "Ringan dan cepat",
+                            "b": "Dalam, berat, dan resonan",
+                            "c": "Sangat tinggi",
+                            "d": "Mirip dengan kendang"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    }
+                ]
+            },
+            {
+                "level": 2,
+                "questions_in_level": [
+                    {
+                        "id": 1,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Setiap daerah memiliki ciri khasnya masing-masing, Gamelan Bali berbeda dengan Gamelan Jawa karena...",
+                        "opsi_jawaban": {
+                            "a": "Temponya lebih cepat dan dinamis",
+                            "b": "Bahan alat musiknya",
+                            "c": "Fungsisnya berbeda",
+                            "d": "Tempo lebih lambat"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 2,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Perangkat Gamelan Bali biasanya terbuat dari, kecuali...",
+                        "opsi_jawaban": {
+                            "a": "Perunggu",
+                            "b": "Batu",
+                            "c": "Bambu",
+                            "d": "Besi"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 3,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Ada berapa jenis perangkat Gamelan Bali?",
+                        "opsi_jawaban": {
+                            "a": "33 jenis",
+                            "b": "22 jenis",
+                            "c": "28 jenis",
+                            "d": "26 jenis"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 4,
+                        "path_audio": null,
+                        "path_gambar": "/aset/2.1_Cengceng.webp",
+                        "teks_pertanyaan": "Alat ini dapat menambah efek ritmis, nama alat ini adalah...",
+                        "opsi_jawaban": {
+                            "a": "Ceng-ceng Kopyak",
+                            "b": "Ceng-ceng Kecek",
+                            "c": "Ceng-ceng Ricik",
+                            "d": "Celuluk"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 5,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Ceng-ceng Kecek dibagi menjadi 2 bagian, yaitu 2 buah cengceng penekep (pemukul) dan …",
+                        "opsi_jawaban": {
+                            "a": "5-7 buah ceng-ceng penimbul suara",
+                            "b": "4-5 buah ceng-ceng penimbul suara",
+                            "c": "5-6 buah ceng-ceng penimbul suara",
+                            "d": "5-9 buah ceng-ceng penimbul suara"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 6,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Ceng-ceng kecek termasuk ke dalam kategori alat musik?",
+                        "opsi_jawaban": {
+                            "a": "Ornamen",
+                            "b": "Melodi",
+                            "c": "Bass",
+                            "d": "Perkusi"
+                        },
+                        "kunci_jawaban_dokumen": "d"
+                    },
+                    {
+                        "id": 7,
+                        "path_audio": null,
+                        "path_gambar": "/aset/2.2_Pemade.webp",
+                        "teks_pertanyaan": "Identifikasikan alat musik pada gambar tersebut.",
+                        "opsi_jawaban": {
+                            "a": "Jublag",
+                            "b": "Pemade",
+                            "c": "Gong",
+                            "d": "Suling"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 8,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Metalofon umumnya dibagi menjadi dua bagian, instrumen melodi inti, dan instrumen dekoratif \"gangsa\" sehingga menghasilkan nada...",
+                        "opsi_jawaban": {
+                            "a": "Tinggi dan tinggi",
+                            "b": "Senada",
+                            "c": "Tinggi dan rendah",
+                            "d": "Rendah dan rendah"
+                        },
+                        "kunci_jawaban_dokumen": "c"
+                    },
+                    {
+                        "id": 9,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Fungsi Pemade adalah mendukung melodi utama. Pemade berkontribusi dengan nada yang lebih ..… dibanding metalofon lainnya",
+                        "opsi_jawaban": {
+                            "a": "Rendah",
+                            "b": "Tinggi",
+                            "c": "Acak",
+                            "d": "Elektronik"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 10,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Bilah pemade dibuat menggunakan?",
+                        "opsi_jawaban": {
+                            "a": "Besi",
+                            "b": "Emas",
+                            "c": "Perunggu",
+                            "d": "Perak"
+                        },
+                        "kunci_jawaban_dokumen": "c"
+                    }
+                ]
+            },
+            {
+                "level": 3,
+                "questions_in_level": [
+                    {
+                        "id": 1,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Berdasarkan fungsinya, Instrumen Gamelan Bali dapat diklasifikasikan menjadi 3 kategori utama, yaitu?",
+                        "opsi_jawaban": {
+                            "a": "Ornamen, Perkusi, dan Melodi",
+                            "b": "Alat musik tiup, alat musik pukul, alat musik gesek/petik",
+                            "c": "Berbahan bambu, logam, dan besi",
+                            "d": "Untuk upacara, hiburan, dan tari-tarian"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 2,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Yang termasuk ke dalam kategori melodi adalah...",
+                        "opsi_jawaban": {
+                            "a": "Kemong",
+                            "b": "Reyong",
+                            "c": "Cengceng",
+                            "d": "Suling"
+                        },
+                        "kunci_jawaban_dokumen": "d"
+                    },
+                    {
+                        "id": 3,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Kemong, Kempli, Kendang, Gong dikategorikan dalam musik?",
+                        "opsi_jawaban": {
+                            "a": "Ornamen",
+                            "b": "Perkusi",
+                            "c": "Melodi",
+                            "d": "Hiasan"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 4,
+                        "path_audio": null,
+                        "path_gambar": "/aset/3.1_Kemong.webp",
+                        "teks_pertanyaan": "Berikut adalah alat musik perkusi jenis...",
+                        "opsi_jawaban": {
+                            "a": "Kemong",
+                            "b": "Kempli",
+                            "c": "Gong",
+                            "d": "Kempur"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 5,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Kemong adalah alat yang dipukul oleh….",
+                        "opsi_jawaban": {
+                            "a": "3 orang",
+                            "b": "1 orang",
+                            "c": "2 orang",
+                            "d": "4 orang"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 6,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Fungsi utama Kemong dalam pertunjukan gamelan adalah untuk….",
+                        "opsi_jawaban": {
+                            "a": "Menyampaikan melodi utama",
+                            "b": "Menambah ritme dan penanda waktu",
+                            "c": "Efek visual",
+                            "d": "Pencahayaan"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 7,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Kemong sering dijadikan penanda dalam alur pertunjukan. Menurut Anda, Kemong biasanya menandai bagian….",
+                        "opsi_jawaban": {
+                            "a": "Melodi utama",
+                            "b": "Ritme dasar",
+                            "c": "Efek suara digital",
+                            "d": "Kostum panggung"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 8,
+                        "path_audio": null,
+                        "path_gambar": "/aset/3.2_Kantil.webp",
+                        "teks_pertanyaan": "Alat musik pada gambar berikut masuk ke dalam kategori?",
+                        "opsi_jawaban": {
+                            "a": "Perkusi",
+                            "b": "Ornamen",
+                            "c": "Melodi",
+                            "d": "Bass"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 9,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Apa yang dimaksud dengan laras pelog dan slendro dalam gamelan?",
+                        "opsi_jawaban": {
+                            "a": "Jenis alat musik",
+                            "b": "Skala nada yang digunakan",
+                            "c": "Teknik bermain",
+                            "d": "Aturan bermain"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 10,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Gamelan yang sering digunakan untuk mengiringi tari-tarian modern Bali adalah...",
+                        "opsi_jawaban": {
+                            "a": "Gong Kebyar",
+                            "b": "Angklung",
+                            "c": "Baleganjur",
+                            "d": "Gong Gede"
+                        },
+                        "kunci_jawaban_dokumen": "c"
+                    }
+                ]
+            },
+            {
+                "level": 4,
+                "questions_in_level": [
+                    {
+                        "id": 1,
+                        "path_audio": null,
+                        "path_gambar": "/aset/4.1_Kantil.webp",
+                        "teks_pertanyaan": "Apa nama alat musik ornamen berikut ...",
+                        "opsi_jawaban": {
+                            "a": "Kantilan",
+                            "b": "Pemade",
+                            "c": "Jublag",
+                            "d": "Suling"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 2,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Fungsi Kantilan adalah ...",
+                        "opsi_jawaban": {
+                            "a": "Menambah lapisan melodi tinggi",
+                            "b": "Menentukan ritme",
+                            "c": "Membuat efek visual",
+                            "d": "Sebagai alat tiup"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 3,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Alat musik ornamen seperti kantilan juga digunakan dalam gong Kebyar, Apa arti dari istilah “kebyar” dalam gamelan Gong Kebyar?",
+                        "opsi_jawaban": {
+                            "a": "Lambat dan syahdu",
+                            "b": "Dinamus dan tiba-tiba",
+                            "c": "Sederhana dan ringan",
+                            "d": "Bergema dan berat"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 4,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Kombinasi antara nada tinggi dan rendah pada permainan gangsa (Kantilan, pemade, dll) disebut...",
+                        "opsi_jawaban": {
+                            "a": "Nada minor",
+                            "b": "Kotekan",
+                            "c": "Bernada",
+                            "d": "Bersautan"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 5,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Dalam permainan kotekan, pemade dan kantil sering dimainkan secara...",
+                        "opsi_jawaban": {
+                            "a": "Bergantian dan berlapis",
+                            "b": "Solo dan unisolo",
+                            "c": "Diharmoni",
+                            "d": "Tidak terkordinasi"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 6,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Gangsa nada rendah dan nada tinggi dalam kombinasinya disebut juga dengan pangumbang (nada rendah) dan ...",
+                        "opsi_jawaban": {
+                            "a": "Pangubung",
+                            "b": "Pasaut",
+                            "c": "Paniup",
+                            "d": "Pangisep"
+                        },
+                        "kunci_jawaban_dokumen": "d"
+                    },
+                    {
+                        "id": 7,
+                        "path_audio": null,
+                        "path_gambar": "/aset/4.2_Kantil_Pemade.png",
+                        "teks_pertanyaan": "Apa perbedaan antara Kantil dan Pemade?",
+                        "opsi_jawaban": {
+                            "a": "Nada atau suara",
+                            "b": "Jumlah bilah",
+                            "c": "Bahan bilah",
+                            "d": "Cara memainkannya"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 8,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Di bawah ini yang tidak termasuk ke dalam gamelan atau karawitan Bali adalah…",
+                        "opsi_jawaban": {
+                            "a": "Gamelan Sekaten",
+                            "b": "Gong Kebyar",
+                            "c": "Baleganjur",
+                            "d": "Semar Pegulingan"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 9,
+                        "path_audio": "/aset/Audio_4.1_Angklung.ogg",
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Dengarkan klip audio berikut, klip tersebut merupakan potongan gending?",
+                        "opsi_jawaban": {
+                            "a": "Angklung",
+                            "b": "Balaganjur",
+                            "c": "Semar Pegulingan",
+                            "d": "Gong Kebyar"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 10,
+                        "path_audio": "/aset/Audio_4.2_Gong_Kebyar.ogg",
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Dengarkan klip audio berikut, klip tersebut merupakan potongan gending?",
+                        "opsi_jawaban": {
+                            "a": "Angklung",
+                            "b": "Balaganjur",
+                            "c": "Semar Pegulingan",
+                            "d": "Gong Kebyar"
+                        },
+                        "kunci_jawaban_dokumen": "d"
+                    },
+                    {
+                        "id": 11,
+                        "path_audio": "/aset/Audio_4.3_Baleganjur.ogg",
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Dengarkan klip audio berikut, klip tersebut merupakan potongan gending?",
+                        "opsi_jawaban": {
+                            "a": "Angklung",
+                            "b": "Balaganjur",
+                            "c": "Semar Pegulingan",
+                            "d": "Gong Kebyar"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    }
+                ]
+            },
+            {
+                "level": 5,
+                "questions_in_level": [
+                    {
+                        "id": 1,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Gamelan Bali dibagi menjadi tiga berdasarkan perkembangan zaman, diantaranya..",
+                        "opsi_jawaban": {
+                            "a": "Wayah, Madya, Anyar",
+                            "b": "Klasik, Jazz, Modern",
+                            "c": "Hiphop, Klasik, Rap",
+                            "d": "Jadul, Masa Kini, Baru"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 2,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Gamelan yang memiliki tempo lambat dan digunakan dalam upacara kerajaan jaman dulu adalah...",
+                        "opsi_jawaban": {
+                            "a": "Gong Gede",
+                            "b": "Gong Kebyar",
+                            "c": "Angklung",
+                            "d": "Baleganjur"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 3,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Apa yang dimaksud dengan waditra atau tungguhan?",
+                        "opsi_jawaban": {
+                            "a": "Alat musik dalam gamelan",
+                            "b": "Jenis tabuhan",
+                            "c": "Pemain gamelan",
+                            "d": "Nada dasar"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 4,
+                        "path_audio": null,
+                        "path_gambar": "/aset/5.1_Kempur.webp",
+                        "teks_pertanyaan": "Gambar tersebut menunjukan tungguhan...",
+                        "opsi_jawaban": {
+                            "a": "Kempur",
+                            "b": "Kempli",
+                            "c": "Jublag",
+                            "d": "Suling"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 5,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Apa fungsi utama waditra kempur dalam gamelan Bali...",
+                        "opsi_jawaban": {
+                            "a": "Menyampaikan melodi utama",
+                            "b": "Menambah efek suara khusus",
+                            "c": "Menandai bagian tetentu dalam siklus gending",
+                            "d": "Mengatur tempo permainan"
+                        },
+                        "kunci_jawaban_dokumen": "c"
+                    },
+                    {
+                        "id": 6,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Berdasarkan gambar, Kempur umumnya terbuat dari bahan....",
+                        "opsi_jawaban": {
+                            "a": "Logam",
+                            "b": "Plastik",
+                            "c": "Kain",
+                            "d": "Kaca"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 7,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Bagaimana karakter suara dari Kempur dibandingkan dengan Gong?",
+                        "opsi_jawaban": {
+                            "a": "Lebih tinggi",
+                            "b": "Lebih rendah",
+                            "c": "Sama dengan",
+                            "d": "Tinggi dan rendah"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 8,
+                        "path_audio": null,
+                        "path_gambar": "/aset/5.2_Gong_Kempur.webp",
+                        "teks_pertanyaan": "Apa perbedaan dari Gong dan Kempur pada secara fisik?",
+                        "opsi_jawaban": {
+                            "a": "Bahan",
+                            "b": "Ukuran",
+                            "c": "Alat pukul",
+                            "d": "Cara memainkan"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 9,
+                        "path_audio": "/aset/Audio_5.1_Semar_Pegulingan.ogg",
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Dengarkan klip audio berikut, klip tersebut merupakan potongan gending?",
+                        "opsi_jawaban": {
+                            "a": "Angklung",
+                            "b": "Balaganjur",
+                            "c": "Semar Pegulingan",
+                            "d": "Gong Kebyar"
+                        },
+                        "kunci_jawaban_dokumen": "c"
+                    },
+                    {
+                        "id": 10,
+                        "path_audio": "/aset/Audio_5.2_Balaganjur.ogg",
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Dengarkan klip audio berikut, klip tersebut merupakan potongan gending?",
+                        "opsi_jawaban": {
+                            "a": "Angklung",
+                            "b": "Gong Gede",
+                            "c": "Semar Pegulingan",
+                            "d": "Gong Kebyar"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 11,
+                        "path_audio": "/aset/Audio_5.3_Gong_Kebyar.ogg",
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Klips audio berikut merupakan contoh pertunjukan...",
+                        "opsi_jawaban": {
+                            "a": "Angklung",
+                            "b": "Balaganjur",
+                            "c": "Semar Pegulingan",
+                            "d": "Gong Kebyar"
+                        },
+                        "kunci_jawaban_dokumen": "d"
+                    }
+                ]
+            },
+            {
+                "level": 6,
+                "questions_in_level": [
+                    {
+                        "id": 1,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Jenis gamelan Bali yang sering digunakan dalam upacara keagamaan dan prosesi adat dengan irama dinamis adalah...",
+                        "opsi_jawaban": {
+                            "a": "Angklung",
+                            "b": "Baleganjur",
+                            "c": "Semar Pagulingan",
+                            "d": "Gong kebyar"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 2,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Apa nama lain dari Jublag dalam gamelan Bali?",
+                        "opsi_jawaban": {
+                            "a": "Jegogan",
+                            "b": "Calung",
+                            "c": "Kantil",
+                            "d": "Pemade"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 3,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Apa karakteristik utama suara dari Jublag dalam barungan gamelan Bali?",
+                        "opsi_jawaban": {
+                            "a": "Suara tinggi dan melodi utama",
+                            "b": "Suara lembut dan cepat",
+                            "c": "Suara rendah dan memperkuat melodi pokok",
+                            "d": "Suara tajam dan ritmis"
+                        },
+                        "kunci_jawaban_dokumen": "c"
+                    },
+                    {
+                        "id": 4,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Dalam struktur gending gamelan Bali, Jublag berperan sebagai penopang melodi pokok. Instrumen manakah yang memiliki fungsi serupa dalam mendukung struktur melodi?",
+                        "opsi_jawaban": {
+                            "a": "Jegog",
+                            "b": "Kantil",
+                            "c": "Pemade",
+                            "d": "Cengceng"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 5,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Dalam ansambel gamelan Bali, instrumen Jegog menghasilkan nada yang...",
+                        "opsi_jawaban": {
+                            "a": "Lebih tinggi dibanding Jublag",
+                            "b": "Sama dengan Jublag",
+                            "c": "Lebih rendah dibanding Jublag",
+                            "d": "Kasar"
+                        },
+                        "kunci_jawaban_dokumen": "c"
+                    },
+                    {
+                        "id": 6,
+                        "path_audio": null,
+                        "path_gambar": "/aset/6.1_Jegog.webp",
+                        "teks_pertanyaan": "Identifikasikan alat musik pada gambar ini.",
+                        "opsi_jawaban": {
+                            "a": "Jegog",
+                            "b": "Gong Ageng",
+                            "c": "Suling",
+                            "d": "Pemade"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 7,
+                        "path_audio": "/aset/None",
+                        "path_gambar": "/aset/6.2_Jublag.webp",
+                        "teks_pertanyaan": "Jublag pada gambar merujuk ke kategori alat musik...",
+                        "opsi_jawaban": {
+                            "a": "Ornamen",
+                            "b": "Perkusi",
+                            "c": "Bass",
+                            "d": "Melodi"
+                        },
+                        "kunci_jawaban_dokumen": "c"
+                    },
+                    {
+                        "id": 8,
+                        "path_audio": null,
+                        "path_gambar": "/aset/6.3_Jegog_Jublag.webp",
+                        "teks_pertanyaan": "Berdasarkan Gambar, apa perbedaan antara Jublag dan Jegog?",
+                        "opsi_jawaban": {
+                            "a": "Fungsinya",
+                            "b": "Ukurannya",
+                            "c": "Bahannya",
+                            "d": "Penggunaannya"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 9,
+                        "path_audio": "/aset/Audio_6.1_Angklung.ogg",
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Dengarkan klip audio berikut. Suara yang terdengar menunjukkan klip...",
+                        "opsi_jawaban": {
+                            "a": "Gong Gede",
+                            "b": "Balaganjur",
+                            "c": "Semar Pegulingan",
+                            "d": "Gong Kebyar"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 10,
+                        "path_audio": "/aset/Audio_6.2_Balaganjur.ogg",
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Dengarkan klip audio berikut. Suara yang terdengar menunjukkan klip...",
+                        "opsi_jawaban": {
+                            "a": "Angklung",
+                            "b": "Balaganjur",
+                            "c": "Semar Pegulingan",
+                            "d": "Gong Kebyar"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 11,
+                        "path_audio": "/aset/Audio_6.3_Angklung.ogg",
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Berdasarkan klip audio di atas, suara yang terdengar mendukung pertunjukan...",
+                        "opsi_jawaban": {
+                            "a": "Angklung",
+                            "b": "Balaganjur",
+                            "c": "Semar Pegulingan",
+                            "d": "Gong Kebyar"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 12,
+                        "path_audio": "/aset/Audio_6.4_Gong_Gede.ogg",
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Berdasarkan klip audio ini, suara yang terdengar mendukung pertunjukan...",
+                        "opsi_jawaban": {
+                            "a": "Angklung",
+                            "b": "Balaganjur",
+                            "c": "Semar Pegulingan",
+                            "d": "Gong Kebyar"
+                        },
+                        "kunci_jawaban_dokumen": "c"
+                    }
+                ]
+            },
+            {
+                "level": 7,
+                "questions_in_level": [
+                    {
+                        "id": 1,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Gamelan yang biasanya dimainkan untuk mengiringi tarian klasik Bali seperti Legong dan memiliki suara lembut adalah...",
+                        "opsi_jawaban": {
+                            "a": "Angklung",
+                            "b": "Baleganjur",
+                            "c": "Semar Pagulingan",
+                            "d": "Gong Kebyar"
+                        },
+                        "kunci_jawaban_dokumen": "c"
+                    },
+                    {
+                        "id": 2,
+                        "path_audio": null,
+                        "path_gambar": "/aset/7.1_Kempli.webp",
+                        "teks_pertanyaan": "Gamelan Balaganjur awalnya digunakan untuk mengiringi...",
+                        "opsi_jawaban": {
+                            "a": "Ngaben",
+                            "b": "Pementasan tari",
+                            "c": "Upacara keagamaan",
+                            "d": "Kematian"
+                        },
+                        "kunci_jawaban_dokumen": "c"
+                    },
+                    {
+                        "id": 3,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Gambar kempli diatas termasuk ke dalam kategori...",
+                        "opsi_jawaban": {
+                            "a": "Perkusi",
+                            "b": "Ornamen",
+                            "c": "Bass",
+                            "d": "Melodi"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 4,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Dalam gamelan, Kempli berfungsi untuk...",
+                        "opsi_jawaban": {
+                            "a": "Menjadi melodi utama",
+                            "b": "Mengatur kecepatan",
+                            "c": "Menjaga ritme dasar",
+                            "d": "Sebagai pemanis"
+                        },
+                        "kunci_jawaban_dokumen": "c"
+                    },
+                    {
+                        "id": 5,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Kempli sering dimainkan bersamaan dengan alat musik apa...",
+                        "opsi_jawaban": {
+                            "a": "Cengceng",
+                            "b": "Kempur",
+                            "c": "Kendang",
+                            "d": "Gangsa"
+                        },
+                        "kunci_jawaban_dokumen": "c"
+                    },
+                    {
+                        "id": 6,
+                        "path_audio": null,
+                        "path_gambar": "/aset/7.2_Kendang.webp",
+                        "teks_pertanyaan": "Apa peran kendang dalam gamelan Bali?",
+                        "opsi_jawaban": {
+                            "a": "Menentukan ritme dan tempo",
+                            "b": "Sebagai alat musik tiup",
+                            "c": "Hanya sebagai dekorasi",
+                            "d": "Efek visual"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 7,
+                        "path_audio": null,
+                        "path_gambar": "/aset/7.3_Ornamen.webp",
+                        "teks_pertanyaan": "Kendang Bali biasanya dimainkan secara berpasangan seperti pada gambar. Selain untuk kotekan, Filosofi di balik pasangan kendang lanang dan kendang wadon menggambarkan konsep apa dalam budaya Bali?",
+                        "opsi_jawaban": {
+                            "a": "Kesetaraan ekonomi",
+                            "b": "Keseimbangan alam dan manusia",
+                            "c": "Dualitas dan keharmonisan (Rwa Bhineda)",
+                            "d": "Hubungan antar kerajaan dan rakyat"
+                        },
+                        "kunci_jawaban_dokumen": "c"
+                    },
+                    {
+                        "id": 8,
+                        "path_audio": "/aset/Audio_7.1_Gong_Gede.ogg",
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Apa perbedaan dari keempat gambar diatas?",
+                        "opsi_jawaban": {
+                            "a": "Ukurannya",
+                            "b": "Bahannya",
+                            "c": "Bentuknya",
+                            "d": "Cara memainkannya"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 9,
+                        "path_audio": "/aset/Audio_7.2_Balaganjur.ogg",
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Dengarkan klip audio berikut. Suara yang terdengar merupakan ciri khas dari...",
+                        "opsi_jawaban": {
+                            "a": "Angklung",
+                            "b": "Balaganjur",
+                            "c": "Semar Pegulingan",
+                            "d": "Gong Gede"
+                        },
+                        "kunci_jawaban_dokumen": "d"
+                    },
+                    {
+                        "id": 10,
+                        "path_audio": "/aset/Audio_7.3_Angklung.ogg",
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Klip audio berikut memiliki kualitas suara yang...",
+                        "opsi_jawaban": {
+                            "a": "Lembut dan pelan",
+                            "b": "Keras dan resonan",
+                            "c": "Digital dan modern",
+                            "d": "Tidak berirama"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 11,
+                        "path_audio": "/aset/Audio_7.4_Gong_Kebyar.ogg",
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Berdasarkan klip audio di atas, suara yang terdengar mendukung pertunjukan...",
+                        "opsi_jawaban": {
+                            "a": "Angklung",
+                            "b": "Balaganjur",
+                            "c": "Semar Pegulingan",
+                            "d": "Gong Kebyar"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 12,
+                        "path_audio": "/aset/Audio_7.5_Semar_Pegulingan.ogg",
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Berdasarkan klip audio tersebut, suara yang terdengar mendukung pertunjukan...",
+                        "opsi_jawaban": {
+                            "a": "Angklung",
+                            "b": "Balaganjur",
+                            "c": "Semar Pegulingan",
+                            "d": "Gong Kebyar"
+                        },
+                        "kunci_jawaban_dokumen": "d"
+                    },
+                    {
+                        "id": 13,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Klips audio ini merupakan contoh dari pertunjukan...",
+                        "opsi_jawaban": {
+                            "a": "Gamelan tradisional Bali",
+                            "b": "Musik pop",
+                            "c": "Konser elektronik",
+                            "d": "Musik rock"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    }
+                ]
+            },
+            {
+                "level": 8,
+                "questions_in_level": [
+                    {
+                        "id": 1,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Apa perbedaan antara gamelan Baleganjur dan gamelan Gong Kebyar?",
+                        "opsi_jawaban": {
+                            "a": "Baleganjur lebih lambat, Gong Kebyar lebih cepat",
+                            "b": "Baleganjur untuk upacara, Gong Kebyar untuk pertunjukan",
+                            "c": "Baleganjur menggunakan alat musik tiup, Gong Kebyar tidak",
+                            "d": "Baleganjur untuk pertunjukan, Gong Kebyar untuk upacara"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 2,
+                        "path_audio": null,
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Gamelan yang berasal dari abad ke-20, terkenal dengan dinamika cepat dan teknik kotekan kompleks adalah...",
+                        "opsi_jawaban": {
+                            "a": "Angklung",
+                            "b": "Balaganjur",
+                            "c": "Semar Pegulingan",
+                            "d": "Gong Kebyar"
+                        },
+                        "kunci_jawaban_dokumen": "d"
+                    },
+                    {
+                        "id": 3,
+                        "path_audio": null,
+                        "path_gambar": "/aset/8.1_Kenyur.webp",
+                        "teks_pertanyaan": "Dalam permainan gong Kebyar, alat musik diatas sering masuk kedalam bebarungan, alat musik apakah itu?",
+                        "opsi_jawaban": {
+                            "a": "Kenyur",
+                            "b": "Kemong",
+                            "c": "Kempur",
+                            "d": "Jublag"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 4,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Instrumen kenyur berfungsi sebagai...",
+                        "opsi_jawaban": {
+                            "a": "Pengatur tempo utama",
+                            "b": "Penegas kerangka melodi (bantang gending)",
+                            "c": "Hanya sebagai hiasan",
+                            "d": "Menghasilkan suara digital"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 5,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Selain dikenal dengan sebutan kenyur, alat musik ini juga sering disebut dengan nama lain, yaitu...",
+                        "opsi_jawaban": {
+                            "a": "Angklung",
+                            "b": "Pemade",
+                            "c": "Kantil",
+                            "d": "Penyacah"
+                        },
+                        "kunci_jawaban_dokumen": "d"
+                    },
+                    {
+                        "id": 6,
+                        "path_audio": null,
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Ciri khas suara yang dihasilkan oleh kenyur/Penyacah dalam gamelan Bali adalah...",
+                        "opsi_jawaban": {
+                            "a": "Nada tinggi dengan resonansi panjang",
+                            "b": "Nada rendah dengan pukulan berat",
+                            "c": "Suara tajam dan cepat yang mengisi sela-sela ritme",
+                            "d": "Suara lembut dan mendayu-dayu"
+                        },
+                        "kunci_jawaban_dokumen": "c"
+                    },
+                    {
+                        "id": 7,
+                        "path_audio": null,
+                        "path_gambar": "/aset/8.3_Panggul.webp",
+                        "teks_pertanyaan": "Perhatikan panggul (alat pukul) pada gambar. Untuk memainkan instrumen logam seperti Kenyur agar menghasilkan suara yang nyaring dan jelas, bagian kepala panggul ini umumnya terbuat dari...",
+                        "opsi_jawaban": {
+                            "a": "Logam",
+                            "b": "Kayu",
+                            "c": "Bambu",
+                            "d": "Karet"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 8,
+                        "path_audio": null,
+                        "path_gambar": "/aset/8.2_Kenyur.webp",
+                        "teks_pertanyaan": "Berapa jumlah bilah (tuts logam) yang umumnya dimiliki oleh instrumen kenyur?",
+                        "opsi_jawaban": {
+                            "a": "10-12 bilah",
+                            "b": "7 bilah",
+                            "c": "7-12 bilah",
+                            "d": "9 bilah"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 9,
+                        "path_audio": "/aset/Audio_8.1_Semar_Pegulingan.ogg",
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Dengarkan klip audio berikut. Suara yang terdengar berasal dari...",
+                        "opsi_jawaban": {
+                            "a": "Angklung",
+                            "b": "Balaganjur",
+                            "c": "Semar Pegulingan",
+                            "d": "Gong Kebyar"
+                        },
+                        "kunci_jawaban_dokumen": "a"
+                    },
+                    {
+                        "id": 10,
+                        "path_audio": "/aset/None",
+                        "path_gambar": "/aset/8.4_Suling.webp",
+                        "teks_pertanyaan": "Alat pada gambar biasanya digunakan pada ansamble angklung untuk menambah hiasan melodi, alat musik apakah itu?",
+                        "opsi_jawaban": {
+                            "a": "Terompet",
+                            "b": "Suling Bali",
+                            "c": "Recorder",
+                            "d": "Harmonika"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 11,
+                        "path_audio": "/aset/Audio_8.2_Gong_Gede.ogg",
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Dengarkan klip audio berikut. Suara yang terdengar merupakan ciri khas dari...",
+                        "opsi_jawaban": {
+                            "a": "Angklung",
+                            "b": "Balaganjur",
+                            "c": "Semar Pegulingan",
+                            "d": "Gong Gede"
+                        },
+                        "kunci_jawaban_dokumen": "d"
+                    },
+                    {
+                        "id": 12,
+                        "path_audio": "/aset/Audio_8.3_Balaganjur.ogg",
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Dengarkan klip audio berikut. Suara yang terdengar merupakan ciri khas dari...",
+                        "opsi_jawaban": {
+                            "a": "Angklung",
+                            "b": "Balaganjur",
+                            "c": "Semar Pegulingan",
+                            "d": "Gong Kebyar"
+                        },
+                        "kunci_jawaban_dokumen": "b"
+                    },
+                    {
+                        "id": 13,
+                        "path_audio": "/aset/Audio_8.4_Angklung.ogg",
+                        "path_gambar": null,
+                        "teks_pertanyaan": "Berdasarkan klip audio di atas, suara yang terdengar mendukung pertunjukan...",
+                        "opsi_jawaban": {
+                            "a": "Angklung",
+                            "b": "Balaganjur",
+                            "c": "Semar Pegulingan",
+                            "d": "Gong Kebyar"
+                        },
+                        "kunci_jawaban_dokumen": "c"
+                    },
+                    {
+                        "id": 14,
+                        "path_audio": "/aset/Audio_8.5_Gong_Kebyar.ogg",
+                        "path_gambar": "/aset/None",
+                        "teks_pertanyaan": "Berdasarkan klip audio tersebut, suara yang terdengar mendukung pertunjukan...",
+                        "opsi_jawaban": {
+                            "a": "Angklung",
+                            "b": "Balaganjur",
+                            "c": "Semar Pegulingan",
+                            "d": "Gong Kebyar"
+                        },
+                        "kunci_jawaban_dokumen": "d"
+                    }
+                ]
+            }
+        ]
+    }
+]
